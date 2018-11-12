@@ -1,0 +1,5 @@
+B:		This place here is the Hall of Doors -
+B:		Little hero,\nyour mission is to fix the bugs \nin each of these worlds! 
+B:		Only one door is unlocked right now,\nbut you'll get to unlocking the other \nones once you solve this one. 
+B:		[speed=20]You could say it's sort of like a test[/speed].\nBut I know you can do it Ti!
+B:		After all, this is like,\nyour nth time here.

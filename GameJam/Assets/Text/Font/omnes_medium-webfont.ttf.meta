@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 51aa5b62529854c4a96a4346fec6624b
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Omnes
+  fontNames:
+  - Omnes
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 3c3975a83c17e3f4382daa0f36ed676e, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

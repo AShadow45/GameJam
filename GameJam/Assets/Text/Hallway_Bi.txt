@@ -1,0 +1,7 @@
+???:	...!! Oh!! Hi there!
+???:	Are you lost? Don't be afraid, I can help you!
+B:		[question=0]I'm B! What's your name?
+[choice]...I think it's Dummy?
+B:		[speed=10]<size=35><b>DUMMY?</b>[/speed] AAHAHAHAHAAHAAaa - 
+B:		What an awful name! I'll just call you Ti.
+B:		Now Ti, come follow me! Hehe. I'll show what awaits you.
