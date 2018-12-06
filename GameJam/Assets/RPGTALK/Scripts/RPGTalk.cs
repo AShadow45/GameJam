@@ -7,6 +7,7 @@ using RPGTALK.Texts;
 using RPGTALK.Helper;
 using RPGTALK.Localization;
 using RPGTALK.Dub;
+using System;
 
 
 
@@ -1101,9 +1102,9 @@ public class RPGTalk : MonoBehaviour {
 						if (newChoice.GetComponent<Button> ()) {
 							newChoice.GetComponentInChildren<Text> ().text = q.choices[i];
 							int choiceNumber = i;
-							newChoice.GetComponent<Button> ().onClick.AddListener (delegate{MadeAChoice (q.questionNum, choiceNumber);});
+							newChoice.GetComponent<Button>().onClick.AddListener (delegate{MadeAChoice (q.questionNum, choiceNumber);});
 							if (i == 0) {
-								newChoice.GetComponent<Button> ().Select ();
+								newChoice.GetComponent<Button>().Select ();
 							}
 						} else {
 							Debug.LogWarning ("RPGTalk can only put the choice's text correctly if choicePrefab is a button with a child of type Text.");
